@@ -1,0 +1,338 @@
+[20-Mar-2024 14:49:48 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:49:48 UTC] PHP Stack trace:
+[20-Mar-2024 14:49:48 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:49:48 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:49:48 UTC] PHP Stack trace:
+[20-Mar-2024 14:49:48 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:49:48 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:49:48 UTC] PHP Stack trace:
+[20-Mar-2024 14:49:48 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:49:48 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:49:48 UTC] PHP Stack trace:
+[20-Mar-2024 14:49:48 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:49:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:50:00 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:00 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:00 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:00 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:00 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:00 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:00 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:00 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:00 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:00 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:50:00 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:00 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:50:42 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:42 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:42 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:42 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:42 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:42 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:50:42 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:50:42 UTC] PHP Stack trace:
+[20-Mar-2024 14:50:42 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:04 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:04 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:04 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:04 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:04 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:04 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:04 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:04 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:04 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:09 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:09 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:09 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:51:09 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:51:09 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:51:12 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:12 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:12 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:12 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:12 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:12 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:12 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:12 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:12 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:12 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:51:12 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:12 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:12 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:51:12 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:12 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:51:18 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:18 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:18 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:51:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:18 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:51:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:18 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:51:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:51:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:51:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:05 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:05 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:05 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:05 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:05 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:05 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:05 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:52:05 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:05 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:05 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:06 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:06 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:06 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:06 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:06 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:06 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:06 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:06 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:06 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:06 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:52:06 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:06 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:06 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:06 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:06 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:08 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:08 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:08 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:08 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:08 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:08 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:08 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:08 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:08 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:08 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:52:08 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:08 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:08 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:08 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:08 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:18 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:18 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:18 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:18 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:52:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:18 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:18 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:18 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:22 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:22 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:22 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:22 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:22 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:22 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:22 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:22 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:22 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:22 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 11
+[20-Mar-2024 14:52:22 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:22 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:22 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:22 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:22 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:13
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(13): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 13
+[20-Mar-2024 14:52:56 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:56 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:56 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:56 UTC] PHP Warning:  include(./conn.php): Failed to open stream: No such file or directory in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:56 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:56 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:56 UTC] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/iufioyem/public_html/quizzing/admin/add.php on line 2
+[20-Mar-2024 14:52:56 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:56 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:56 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 16
+[20-Mar-2024 14:52:56 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:56 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:56 UTC] PHP Warning:  Undefined variable $conn in /home/iufioyem/public_html/quizzing/admin/add.php on line 18
+[20-Mar-2024 14:52:56 UTC] PHP Stack trace:
+[20-Mar-2024 14:52:56 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[20-Mar-2024 14:52:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/iufioyem/public_html/quizzing/admin/add.php:18
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(18): mysqli_query(NULL, 'insert into sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 18
+[20-Mar-2024 14:53:34 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 16
+[20-Mar-2024 14:53:34 UTC] PHP Stack trace:
+[20-Mar-2024 14:53:34 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[21-Mar-2024 14:57:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/iufioyem/public_html/quizzing/admin/add.php:29
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(29): mysqli_query(Object(mysqli), 'delete from sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 29
+[21-Mar-2024 14:57:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/iufioyem/public_html/quizzing/admin/add.php:29
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(29): mysqli_query(Object(mysqli), 'delete from sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 29
+[21-Mar-2024 14:57:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/iufioyem/public_html/quizzing/admin/add.php:29
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(29): mysqli_query(Object(mysqli), 'delete from sta...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 29
+[21-Mar-2024 16:02:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iufioyem_quizzing.subjects' doesn't exist in /home/iufioyem/public_html/quizzing/admin/add.php:42
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(42): mysqli_query(Object(mysqli), 'insert into sub...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 42
+[21-Mar-2024 16:03:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iufioyem_quizzing.subjects' doesn't exist in /home/iufioyem/public_html/quizzing/admin/add.php:42
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(42): mysqli_query(Object(mysqli), 'insert into sub...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 42
+[21-Mar-2024 16:23:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'iufioyem_quizzing.exam' doesn't exist in /home/iufioyem/public_html/quizzing/admin/add.php:63
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(63): mysqli_query(Object(mysqli), 'select * from e...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 63
+[21-Mar-2024 16:54:05 UTC] PHP Warning:  Undefined array key "name" in /home/iufioyem/public_html/quizzing/admin/add.php on line 71
+[21-Mar-2024 16:54:05 UTC] PHP Stack trace:
+[21-Mar-2024 16:54:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[21-Mar-2024 16:54:05 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 72
+[21-Mar-2024 16:54:05 UTC] PHP Stack trace:
+[21-Mar-2024 16:54:05 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[21-Mar-2024 17:41:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`iufioyem_quizzing`.`series`, CONSTRAINT `series_ibfk_1` FOREIGN KEY (`exam_id`) REFERENCES `exams` (`name`)) in /home/iufioyem/public_html/quizzing/admin/add.php:83
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(83): mysqli_query(Object(mysqli), 'delete from exa...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 83
+[21-Mar-2024 17:41:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`iufioyem_quizzing`.`series`, CONSTRAINT `series_ibfk_1` FOREIGN KEY (`exam_id`) REFERENCES `exams` (`name`)) in /home/iufioyem/public_html/quizzing/admin/add.php:83
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(83): mysqli_query(Object(mysqli), 'delete from exa...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 83
+[21-Mar-2024 17:42:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`iufioyem_quizzing`.`series`, CONSTRAINT `series_ibfk_1` FOREIGN KEY (`exam_id`) REFERENCES `exams` (`name`)) in /home/iufioyem/public_html/quizzing/admin/add.php:83
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(83): mysqli_query(Object(mysqli), 'delete from exa...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 83
+[23-Mar-2024 08:14:29 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:14:29 UTC] PHP Stack trace:
+[23-Mar-2024 08:14:29 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:14:33 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:14:33 UTC] PHP Stack trace:
+[23-Mar-2024 08:14:33 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:14:33 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:14:33 UTC] PHP Stack trace:
+[23-Mar-2024 08:14:33 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:15:04 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:15:04 UTC] PHP Stack trace:
+[23-Mar-2024 08:15:04 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:15:32 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:15:32 UTC] PHP Stack trace:
+[23-Mar-2024 08:15:32 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:15:32 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:15:32 UTC] PHP Stack trace:
+[23-Mar-2024 08:15:32 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:16:28 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:16:28 UTC] PHP Stack trace:
+[23-Mar-2024 08:16:28 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 08:16:28 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/model.php on line 5
+[23-Mar-2024 08:16:28 UTC] PHP Stack trace:
+[23-Mar-2024 08:16:28 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/model.php:0
+[23-Mar-2024 09:25:24 UTC] PHP Warning:  Undefined array key "case" in /home/iufioyem/public_html/quizzing/admin/add.php on line 9
+[23-Mar-2024 09:25:24 UTC] PHP Stack trace:
+[23-Mar-2024 09:25:24 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Warning:  Undefined array key "exam_id" in /home/iufioyem/public_html/quizzing/admin/add.php on line 99
+[23-Mar-2024 09:27:09 UTC] PHP Stack trace:
+[23-Mar-2024 09:27:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Warning:  Undefined array key "model_id" in /home/iufioyem/public_html/quizzing/admin/add.php on line 100
+[23-Mar-2024 09:27:09 UTC] PHP Stack trace:
+[23-Mar-2024 09:27:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Warning:  Undefined array key "name" in /home/iufioyem/public_html/quizzing/admin/add.php on line 101
+[23-Mar-2024 09:27:09 UTC] PHP Stack trace:
+[23-Mar-2024 09:27:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Warning:  Undefined array key "image" in /home/iufioyem/public_html/quizzing/admin/add.php on line 102
+[23-Mar-2024 09:27:09 UTC] PHP Stack trace:
+[23-Mar-2024 09:27:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Warning:  Undefined array key "fee" in /home/iufioyem/public_html/quizzing/admin/add.php on line 103
+[23-Mar-2024 09:27:09 UTC] PHP Stack trace:
+[23-Mar-2024 09:27:09 UTC] PHP   1. {main}() /home/iufioyem/public_html/quizzing/admin/add.php:0
+[23-Mar-2024 09:27:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`iufioyem_quizzing`.`series`, CONSTRAINT `series_ibfk_1` FOREIGN KEY (`exam_id`) REFERENCES `exams` (`name`)) in /home/iufioyem/public_html/quizzing/admin/add.php:105
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(105): mysqli_query(Object(mysqli), 'insert into ser...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 105
+[23-Mar-2024 09:27:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`iufioyem_quizzing`.`series`, CONSTRAINT `series_ibfk_1` FOREIGN KEY (`exam_id`) REFERENCES `exams` (`name`)) in /home/iufioyem/public_html/quizzing/admin/add.php:105
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/admin/add.php(105): mysqli_query(Object(mysqli), 'insert into ser...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/admin/add.php on line 105

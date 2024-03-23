@@ -1,0 +1,20 @@
+[22-Mar-2024 07:01:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rank WHERE pool_id = 'undefined' AND number = 'undefined'' at line 1 in /home/iufioyem/public_html/quizzing/rank.php:33
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/rank.php(33): mysqli->query('SELECT * FROM r...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/rank.php on line 33
+[22-Mar-2024 07:02:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rank WHERE pool_id = '1' AND number = '8252408605'' at line 1 in /home/iufioyem/public_html/quizzing/rank.php:33
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/rank.php(33): mysqli->query('SELECT * FROM r...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/rank.php on line 33
+[22-Mar-2024 07:18:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rank WHERE pool_id = 'undefined' AND number = 'undefined'' at line 1 in /home/iufioyem/public_html/quizzing/rank.php:33
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/rank.php(33): mysqli->query('SELECT * FROM r...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/rank.php on line 33
+[22-Mar-2024 07:18:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rank WHERE pool_id = 'undefined' AND number = 'undefined'' at line 1 in /home/iufioyem/public_html/quizzing/rank.php:33
+Stack trace:
+#0 /home/iufioyem/public_html/quizzing/rank.php(33): mysqli->query('SELECT * FROM r...')
+#1 {main}
+  thrown in /home/iufioyem/public_html/quizzing/rank.php on line 33
