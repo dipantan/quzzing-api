@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/iufioyem/public_html/quizzing
+    - /bin/cp -R * $DEPLOYPATH
